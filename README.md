@@ -1,18 +1,5 @@
-[![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
-## I'm a QA Engineer and Tutor. 
-## A creator of "Artsiom Rusau QA Life" Youtube channel 
-## My CV
-[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
-
-## Latest Youtube Videos
-
-<!-- YOUTUBE:START -->
-- [Зачем тестировщику git и GitHub? #shorts #git #github #тестировщик #тестировщикснуля](https://www.youtube.com/watch?v=31MT3iH2fNg)
-- [Postman для тестировщика 2023: обзор функций и интерфейса](https://www.youtube.com/watch?v=B2TxMRFBm8I)
-- [Как просить пересмотр зарплаты? #тестировщикснуля #войтивайти #shorts](https://www.youtube.com/watch?v=5sMR7e6mS4U)
-- [Что делать, если на проекте нет требований? #тестировщикснуля #войтивайти #shorts](https://www.youtube.com/watch?v=QW6hM-vDLxw)
-- [Баги и дефекты это не KPI #войтивайти #тестировщикснуля #shorts](https://www.youtube.com/watch?v=Ig2HXBROEL8)
-<!-- YOUTUBE:END -->
+## I'm a Junior QA Engineer. 
+## My name is Olga
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
